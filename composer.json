@@ -1,7 +1,7 @@
 {
     "name":        "tomkyle/exceptions",
     "type":        "library",
-    "description": "Part of a crappy framework, providing formerly useful exception classes",
+    "description": "Part of a crappy framework, providing formerly useful exception classes. Will be remmoved soon",
 
 
     "authors": [
